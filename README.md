@@ -8,6 +8,11 @@ Optimus Prime is an AI chatbot built with JavaScript and the OpenAI API. It’s 
 - **Voice Recognition:** Talk to it hands-free with built-in voice recognition.
 - **Learning Over Time:** It gets better with every conversation, improving its responses.
 
+## Screenshot of the Project:
+![image](https://github.com/user-attachments/assets/9ac6202d-a49d-4fd9-bf57-1379ee24647f)
+
+
+
 ## Future Enhancements
 
 Multi-language support to allow users from different regions to interact in their native languages.
